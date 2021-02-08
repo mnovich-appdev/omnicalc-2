@@ -156,7 +156,7 @@ Add the gem to your Gemfile:
 
 ```ruby
 # /Gemfile
-gem "google-cloud-translate"
+gem "google-cloud-translate", "2.3.0"
 ```
 
 Then `bundle install` and restart your web server.
