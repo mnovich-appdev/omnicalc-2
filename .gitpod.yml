@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-omnicalc-2
+image: jelaniwoods/appdev2021-omnicalc-2@sha256:c9c775ccc24c3d9027230d5c4d52bc8d7f7749ab565e5545a77754a9b80c78d9
 
 tasks:
   - init: bin/setup
